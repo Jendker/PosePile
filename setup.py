@@ -30,7 +30,7 @@ setup(
         'imageio[ffmpeg]',
         'cameralib @ git+https://github.com/isarandi/cameralib.git',
         'boxlib @ git+https://github.com/isarandi/boxlib.git',
-        'rlemasklib @ git+https://github.com/isarandi/rlemasklib.git',
+        'rlemasklib @ git+https://github.com/Jendker/rlemasklib.git@patch-1',
         'simplepyutils @ git+https://github.com/isarandi/simplepyutils.git',
         'humcentr-cli @ git+https://github.com/isarandi/humcentr-cli.git',
         'barecat @ git+https://github.com/isarandi/BareCat.git',
